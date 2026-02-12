@@ -49,7 +49,7 @@ Artificial Vision/
 │   ├── DATA/
 │   └── README.md
 │
-├── Exercise/
+├── Filters/
 │   ├── Code/
 │   └── README.md
 │
