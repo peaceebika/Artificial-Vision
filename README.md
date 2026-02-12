@@ -35,7 +35,7 @@ The objective of this course is to apply methodologies in **computer vision and 
 ### 3. Vision Applications in Science and Engineering
 - Research design and experimentation in computer vision  
 - Evaluation metrics and benchmarking  
-- Integration of vision methods into PhD research :contentReference[oaicite:1]{index=1}
+- Integration of vision methods into PhD research: contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -44,7 +44,7 @@ The objective of this course is to apply methodologies in **computer vision and 
 ```text
 Artificial Vision/
 │
-├── Exercise/
+├── Computer Vision Fundamentals/
 │   ├── Code/
 │   ├── DATA/
 │   └── README.md
