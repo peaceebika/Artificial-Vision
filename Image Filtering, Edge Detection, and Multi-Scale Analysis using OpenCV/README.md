@@ -1,4 +1,4 @@
-# HW2 – Image Filtering, Edge Detection, and Pyramids using OpenCV
+# Image Filtering, Edge Detection, and Pyramids using OpenCV
 
 ## Course Project: (OpenCV)
 
