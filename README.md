@@ -51,6 +51,7 @@ Artificial Vision/
 │
 ├── Filters/
 │   ├── Code/
+|   ├── DATA/Img/
 │   └── README.md
 │
 ├── homework_2/
