@@ -1,6 +1,6 @@
 # Artificial Vision
 
-This folder contains coursework, experiments, and projects for the **Artificial Vision** course in the **PhD in Intelligent Systems** program.  
+This folder contains coursework, homework, experiments, and projects for the **Artificial Vision** course in the **PhD in Intelligent Systems** program.  
 The work focuses on applying **computer vision and image processing techniques** to solve real-world problems in science and engineering.
 
 ---
