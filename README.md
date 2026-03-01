@@ -36,6 +36,9 @@ The objective of this course is to apply methodologies in **computer vision and 
 - Research design and experimentation in computer vision  
 - Evaluation metrics and benchmarking  
 - Integration of vision methods into PhD research: contentReference[oaicite:1]{index=1}
+  
+This repository is intended for academic, learning, and portfolio purposes
+
 
 ---
 
