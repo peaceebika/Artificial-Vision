@@ -52,14 +52,17 @@ Artificial Vision/
 │   ├── DATA/
 │   └── README.md
 │
-├── Filters/
+├── Image Filtering/
 │   ├── Code/
 |   ├── DATA/Img/
 │   └── README.md
 │
-├── homework_2/
+├── computer_vision_fundamentals/
 │   ├── Code/
 │   ├── DATA/
 │   └── README.md
 │
+├── List of ML Algorithm/
+│   ├── ML Algorithm
+│   └── README.md
 └── README.md   (main course README)
